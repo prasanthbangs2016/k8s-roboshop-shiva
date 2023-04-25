@@ -9,7 +9,7 @@ metadata:
     containers:
     - name: catalogue
       imagePullPolicy: Always
-      image: techworldsiva/catalogue
+      image: prashanthbangs/catalogue:v1
       resources:
         request:
           cpu: "100m"
