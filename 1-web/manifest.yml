@@ -9,7 +9,7 @@ metadata:
     containers:
     - name: web
       imagePullPolicy: Always
-      image: techworldsiva/web:k8
+      image: prashanthbangs/frontend:v1
       resources:
         request:
           cpu: "100m"
